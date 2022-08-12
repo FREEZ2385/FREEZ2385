@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?text=Freez&type=waving&color=auto&height=300&section=header&fontSize=90&animation=fadeIn)
 
+# Hello I`m Freez!
+
 <!--
 **FREEZ2385/FREEZ2385** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
